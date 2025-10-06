@@ -1,6 +1,6 @@
 ## Hi there 👋
 Welcome to my GitHub!
-You can find my learning journal on ![https://nataliepjlin.github.io/](https://nataliepjlin.github.io/)
+You can find my learning journal on https://nataliepjlin.github.io/
 <!--
 **nataliepjlin/nataliepjlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
